@@ -4,3 +4,4 @@ Purpose: To save packet tracer assigments for course
 5G00EU98-Reititys-ja-kytkentäisyys
 
 GithubTest1, updating ReadMe from PC - Completed
+GithubTest1, updating ReadMe from laptop - Completed
